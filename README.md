@@ -1,5 +1,7 @@
 # Hi there, I'm Prashant <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi! I'm Prashant Maharjan, a beginner programmer🚀 form Nepal🇳🇵. Beside's programming I enjoy watching movies🎥, playing guitar🎸 and traveling✈️!
+<hr>
+
 ## Talking about my personal stuff:
 - 🔭 I’m currently working on multiple small projects!
 - 🌱 I’m currently learning everything 🤣
@@ -14,7 +16,6 @@ Hi! I'm Prashant Maharjan, a beginner programmer🚀 form Nepal🇳🇵. Beside'
 [<img align="left" alt="Prashant | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Prashant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-
 <br />
 
 ### Languages and Tools:
@@ -28,6 +29,10 @@ Hi! I'm Prashant Maharjan, a beginner programmer🚀 form Nepal🇳🇵. Beside'
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+<hr>
+
+<img align="left" alt="Prashant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrashantMhrzn&show_icons=true&hide_border=true&theme=radical" />
 
 [instagram]: https://www.instagram.com/_prashant.maharjan/
 [reddit]: https://www.reddit.com/user/Agent640509-040147
