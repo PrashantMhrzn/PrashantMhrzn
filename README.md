@@ -1,6 +1,7 @@
 # Hi there, I'm Prashant <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi! I'm Prashant Maharjan, a beginner programmer🚀 form Nepal🇳🇵. Beside's programming I enjoy watching movies🎥, playing guitar🎸 and traveling✈️!
 <hr>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="350px"/>
 
 ## Talking about my personal stuff:
 - 🔭 I’m currently working on multiple small projects!
