@@ -5,10 +5,10 @@ Hi! I'm Prashant Maharjan, a beginner programmer🚀 form Nepal🇳🇵. Beside'
 
 ## Talking about my personal stuff:
 - 🔭 I’m currently working on multiple small projects!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Python and Django framework
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar
+- 📬 How to reach me: pmhrzn@protonmail.com
 
 ### Connect with me:
 [<img align="left" alt="Prashant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
