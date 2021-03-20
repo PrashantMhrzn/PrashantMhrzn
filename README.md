@@ -1,22 +1,9 @@
 # Hi there, I'm Prashant <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hi! I'm Prashant Maharjan, a Junior Developer🚀 form Nepal🇳🇵. Beside's programming I enjoy watching movies🎥, playing guitar🎸, reading books📚 and traveling✈️!
+Hi! I'm Prashant Maharjan, a Junior Developer form Nepal. Beside's programming I enjoy watching movies playing guitar, reading books and traveling!
 <hr>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="350px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="350px"/>                 
 
-## Talking about my personal stuff:
-- 🔭 I’m currently working on the #100daysofcode challenge!
-- 🌱 I’m currently learning Python and Django framework
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: 
-
-    - [ ] Contribute more to Open Source projects
-
-    - [ ] Complete the #100daysofcode challenge
-                 
-    - [ ] Learn Javascript and Django
-                 
-
-- 📬 How to reach me: pmhrzn@protonmail.com / prashantmaharjan5@gmail.com
+How to reach me: pmhrzn@protonmail.com / prashantmaharjan5@gmail.com
 
 ### Connect with me:
 [<img align="left" alt="Prashant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
