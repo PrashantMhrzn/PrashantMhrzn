@@ -3,7 +3,7 @@ Hi! I'm Prashant Maharjan, a Junior Developer form Nepal. Beside's programming I
 <hr>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="350px"/>                 
 
-How to reach me: pmhrzn@protonmail.com / prashantmaharjan5@gmail.com
+How to reach me: prashantmaharjan5@gmail.com
 
 ### Connect with me:
 [<img align="left" alt="Prashant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -31,7 +31,7 @@ How to reach me: pmhrzn@protonmail.com / prashantmaharjan5@gmail.com
 <img align="left" alt="Prashant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrashantMhrzn&show_icons=true&hide_border=true&theme=radical" />
 
 [instagram]: https://www.instagram.com/_prashant.maharjan/
-[reddit]: https://www.reddit.com/user/Agent640509-040147
+[reddit]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [discord]: https://discord.com/channels/@me
 [twitter]: https://twitter.com/mhrzn_prashant
 [telegram]: https://t.me/prashant_mhrzn
