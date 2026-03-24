@@ -8,7 +8,7 @@
 [![Languages](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=django,fastapi,flask,mysql,git,github,bash,linux,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,flask,docker,postgres,mysql,git,github,gitlab,bash,linux,androidstudio)](https://skillicons.dev)
  
 
 <br />
